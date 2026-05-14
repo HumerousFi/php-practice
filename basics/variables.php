@@ -8,6 +8,6 @@ echo "<h2>User Inforamtion</h2>";
 
 echo "Name: $name <br>";
 echo "Age: $age <br>";
-echo "Domain: $Domain";
+echo "Domain: $domain";
 
 ?>
